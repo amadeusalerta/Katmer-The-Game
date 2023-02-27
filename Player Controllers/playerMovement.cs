@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
-    public GameObject player;
+    
     public CharacterController controller;
-    public float speed = 10f;;
+    public float speed = 10f;
     void Start()
     {
         
